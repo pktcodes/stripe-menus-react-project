@@ -4,7 +4,7 @@
 
 #### Stripe Menus consists of a straightforward user interface where there is a
 
-- **Navbar**, **Hero**, **Sidebar** and **Submenus** components.
+- **Navbar**, **Hero**, **Sidebar** and **Submenu** components.
 - Functionality is 
   - **`Navbar`**  consists of the title `Stripe`  logo, page menus, and `Sign in` button.
   - **`Hero`** consists of a header, paragraph, and `Start now`  button.
