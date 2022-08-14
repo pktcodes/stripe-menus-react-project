@@ -1,6 +1,6 @@
 # Stripe Menus 🎹
 
-> PROD [Live] : https://react-stripe menus-prod.netlify.app/
+> PROD [Live] : https://react-stripe-menus-prod.netlify.app/
 
 #### Stripe Menus consists of a straightforward user interface where there is a
 
